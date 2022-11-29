@@ -8,9 +8,7 @@
 
 也是为了让实验室爱折腾的小伙伴一起构建起实验室的知识库
 
-[模板站点预览](https://sinnammanyo.cn/docusaurus-template/)
 
-配置美化后的站点预览 —— [RCXXX的Wiki](https://sinnammanyo.cn/docs/)
 
 ## 配置环境
 
